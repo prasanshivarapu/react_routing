@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  color: #9aa5b1;
+}
